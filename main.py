@@ -120,4 +120,4 @@ if __name__ == "__main__":
     ## NOTE: Connect to PostgreSQL
     bot.loop.run_until_complete(sql_connect())
     ## NOTE: Run the Bot
-    bot.run(environ["BOT_TOKEN"])
+    bot.run(NjEyOTE2MDUxNTYyNDYzMjMy.XVpU4Q.5j57zl0MTCkwOE5E4GYX7y2AEaM)
